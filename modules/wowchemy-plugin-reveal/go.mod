@@ -1,4 +1,4 @@
-module github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+module github.com/5mss/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
 
 go 1.15
 
